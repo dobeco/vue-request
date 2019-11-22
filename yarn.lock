@@ -6879,9 +6879,9 @@ validate-npm-package-license@^3.0.1:
     spdx-correct "^3.0.0"
     spdx-expression-parse "^3.0.0"
 
-vant@^2.1.5:
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/vant/download/vant-2.1.5.tgz#cef25202faaac02083c548805cdb796dacf6a9cb"
+vant@^2.1.8:
+  version "2.1.8"
+  resolved "https://registry.yarnpkg.com/vant/-/vant-2.1.8.tgz#38cb5ac8cf6a78805ece57d4b278584f7d13cd47"
   dependencies:
     "@babel/runtime" "7.x"
     "@vant/icons" "1.1.13"
